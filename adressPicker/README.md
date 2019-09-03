@@ -2,6 +2,8 @@
 
 > 移动端四级联动地址选择器
 
+预览：https://zhudadaa.github.io/adress-picker/
+
 ## Build Setup
 
 ``` bash
