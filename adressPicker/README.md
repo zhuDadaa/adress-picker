@@ -2,7 +2,7 @@
 
 > 移动端四级联动地址选择器
 
-预览：https://zhudadaa.github.io/adress-picker/
+预览：https://zhudadaa.github.io/adress-picker/adressPicker/preview/index.html
 
 ## Build Setup
 
